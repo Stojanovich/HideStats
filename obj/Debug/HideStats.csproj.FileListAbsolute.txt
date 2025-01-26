@@ -1,0 +1,15 @@
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\HideStats.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\HideStats.pdb
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\Assembly-CSharp.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\Rocket.API.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\Rocket.Core.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\Rocket.Unturned.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\SDG.NetTransport.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\picap\source\repos\HideStats\HideStats\bin\Debug\UnityEngine.dll
+C:\Users\picap\source\repos\HideStats\HideStats\obj\Debug\HideStats.csproj.AssemblyReference.cache
+C:\Users\picap\source\repos\HideStats\HideStats\obj\Debug\HideStats.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\HideStats\HideStats\obj\Debug\HideStats.csproj.Up2Date
+C:\Users\picap\source\repos\HideStats\HideStats\obj\Debug\HideStats.dll
+C:\Users\picap\source\repos\HideStats\HideStats\obj\Debug\HideStats.pdb
