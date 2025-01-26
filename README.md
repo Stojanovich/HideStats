@@ -5,7 +5,7 @@ What You Can Do:
 Set Infinite Stats: Choose which stats (e.g., health, stamina, water) are infinite for players.
 Hide Stats in HUD: Control whether specific stats are visible or hidden on the player HUD.
 
-Example Configuration:
+# Example Configuration:
 ```
 <StatsManagerConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <InfiniteStats>
